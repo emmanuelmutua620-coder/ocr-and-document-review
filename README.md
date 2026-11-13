@@ -1,20 +1,44 @@
-# OCR and Document Review
+# OCR and Document Review Portfolio
 
-This repository documents a repeatable method for checking OCR-extracted text against a source document, correcting supported errors, and recording uncertain content for human review.
+This repository showcases practical skills in Optical Character Recognition (OCR) review, document verification, text correction, and quality assurance.
 
-## Contents
-- `templates/ocr-review-log-template.csv` — blank review log.
-- `examples/fictional-ocr-review-example.md` — worked fictional example.
-- `docs/ocr-review-procedure.md` — review process and decision rules.
-- `docs/ocr-quality-checklist.md` — final QA checklist.
-- `case-study/CASE-STUDY.md` — template for documenting your own work.
+## Skills Demonstrated
 
-## Review principles
-- Always compare the OCR output with the source image/document.
-- Preserve the original meaning, order, and structure.
-- Check names, dates, amounts, reference numbers, symbols, and punctuation carefully.
-- Do not silently guess illegible characters. Flag uncertainty for escalation.
-- Keep a record of meaningful corrections and the reason for them.
+- OCR text extraction verification
+- Text recognition error correction
+- Document formatting and structure preservation
+- Verification of names, dates, amounts, and reference numbers
+- Data accuracy and quality assurance
+- Error tracking and documentation
 
-## Privacy
-Only publish synthetic examples or documents that are public and safe to reuse. Never upload DDD/client scans, protected records, or confidential production samples.
+## Repository Contents
+
+| File | Description |
+|---|---|
+| `fictional-ocr-review-example.md` | Fictional before-and-after OCR correction example |
+| `ocr-review-log-template.csv` | Template for recording OCR errors and corrections |
+| `ocr-quality-checklist.md` | Document accuracy checklist |
+| `ocr-review-procedure.md` | Step-by-step OCR review procedure |
+| `CASE-STUDY.md` | Project case study documentation |
+
+## Review Workflow
+
+1. Compare extracted text with the original source.
+2. Identify recognition and formatting errors.
+3. Correct errors supported by the source document.
+4. Flag unclear characters for further review.
+5. Perform a final accuracy check.
+6. Document corrections and quality findings.
+
+## Professional Experience
+
+I have practical experience in OCR review and document processing, including checking extracted text against source documents, correcting recognition errors, validating numbers and symbols, and maintaining document accuracy.
+
+## Data Privacy
+
+Examples are fictional demonstrations. No confidential employer or client documents are published.
+
+## Contact
+
+- LinkedIn: [Emmanuel Mutua](https://www.linkedin.com/in/emmanuel-mutua-4140833b3)
+- Location: Kenya
